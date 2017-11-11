@@ -13,7 +13,7 @@
     "stripInternal": true,
     "lib": ["dom", "es6"],
     "types": [
-      "dragula",
+      "@zomoz/dragula",
       "jasmine",
       "webpack"
     ]
